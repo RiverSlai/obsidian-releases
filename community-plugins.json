@@ -33732,5 +33732,12 @@
   "description": "将EPUB电子书转换为Markdown，保留目录结构",
   "repo": "RiverSlai/obsidian-epub-import"
 }
-  }
+  },
+{
+  "id": "epub-import",
+  "name": "EPUB 导入",
+  "author": "RiverSlai",
+  "description": "将EPUB电子书转换为Markdown，保留目录结构",
+  "repo": "RiverSlai/obsidian-epub-import"
+}
 ]
